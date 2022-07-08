@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+.containerCards__card{
+  width: 200px;
+  height: 350px;
+  
+}
+
+.containerCards__img{
+  width: 100%;
+  border-radius: 10px;
+}

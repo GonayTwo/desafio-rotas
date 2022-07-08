@@ -1,5 +1,5 @@
 .containerApp{
-  width: 750px;
+  max-width: 750px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
